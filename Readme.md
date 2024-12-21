@@ -8,6 +8,9 @@ This project is a blockchain-based solution designed to incentivize individuals 
 
 ## Contract Address
 0x94c4a28a661b65ed58ac99a0ccde6378de67df45
+![{E88BE689-D02B-4C6E-B8B2-4E05DCD43FEC}](https://github.com/user-attachments/assets/7f7493f0-1fcf-4010-a11a-7670bb44e1c3)
+
+
 
 ## Project Vision
 The vision of this project is to create a decentralized platform where authors are rewarded for their contributions to the content ecosystem. By leveraging blockchain technology, the platform ensures fair and transparent reward distribution, motivating authors to create valuable content.
